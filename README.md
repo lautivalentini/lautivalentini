@@ -21,6 +21,7 @@ A Web Developer actually focused on the Frontend with React. I'm always learning
       alt="javascript"
       width="30"
       height="30"
+      borderRadius="50%"
     />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
@@ -29,6 +30,7 @@ A Web Developer actually focused on the Frontend with React. I'm always learning
       alt="typescript"
       width="30"
       height="30"
+      borderRadius="50%"
     />
   </a>
   <a href="https://reactjs.org/" target="_blank">
@@ -37,6 +39,7 @@ A Web Developer actually focused on the Frontend with React. I'm always learning
       alt="react"
       width="30"
       height="30"
+      borderRadius="50%"
     />
   </a>
   <a href="https://nodejs.org" target="_blank">
@@ -45,6 +48,7 @@ A Web Developer actually focused on the Frontend with React. I'm always learning
       alt="nodejs"
       width="30"
       height="30"
+      borderRadius="50%"
     />
   </a>
   <a href="https://firebase.google.com/" target="_blank">
@@ -53,6 +57,7 @@ A Web Developer actually focused on the Frontend with React. I'm always learning
       alt="firebase"
       width="30"
       height="30"
+      borderRadius="50%"
     />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
@@ -61,6 +66,7 @@ A Web Developer actually focused on the Frontend with React. I'm always learning
       alt="mongodb"
       width="30"
       height="30"
+      borderRadius="50%"
     />
   </a>
 </p>
