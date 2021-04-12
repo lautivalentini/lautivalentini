@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lautaro Valentini</h1>
-<h3 align="center">A Web Developer actually focused on the Frontend with React. I'm always learning</h3>
+<h1 align="left">Hi 👋, I'm Lautaro Valentini</h1>
+A Web Developer actually focused on the Frontend with React. I'm always learning
 
-- 🌱 I’m currently learning **React but open to learn new technologies**
+- 🌱 I’m currently learning **React**
 
 - 🤝 Enthusiastic about participating in new projects **working with React**
 
