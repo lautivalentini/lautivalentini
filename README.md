@@ -13,16 +13,14 @@ A web developer passionate about systems, new technologies and everything relate
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a
-    backgroundColor="white" 
-    padding="5px"
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="20"
-      height="20"
+      width="30"
+      height="30"
       borderRadius="50%"
     />
   </a>
@@ -30,8 +28,8 @@ A web developer passionate about systems, new technologies and everything relate
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
-      width="20"
-      height="20"
+      width="30"
+      height="30"
       borderRadius="50%"
     />
   </a>
@@ -39,8 +37,8 @@ A web developer passionate about systems, new technologies and everything relate
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
-      width="20"
-      height="20"
+      width="30"
+      height="30"
       borderRadius="50%"
     />
   </a>
@@ -48,8 +46,8 @@ A web developer passionate about systems, new technologies and everything relate
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="20"
-      height="20"
+      width="30"
+      height="30"
       borderRadius="50%"
     />
   </a>
