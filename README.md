@@ -19,8 +19,8 @@ A web developer passionate about systems, new technologies and everything relate
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="30"
-      height="30"
+      width="20"
+      height="20"
       borderRadius="50%"
     />
   </a>
@@ -28,8 +28,8 @@ A web developer passionate about systems, new technologies and everything relate
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
-      width="30"
-      height="30"
+      width="20"
+      height="20"
       borderRadius="50%"
     />
   </a>
@@ -37,8 +37,8 @@ A web developer passionate about systems, new technologies and everything relate
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
-      width="30"
-      height="30"
+      width="20"
+      height="20"
       borderRadius="50%"
     />
   </a>
@@ -46,8 +46,8 @@ A web developer passionate about systems, new technologies and everything relate
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="30"
-      height="30"
+      width="20"
+      height="20"
       borderRadius="50%"
     />
   </a>
