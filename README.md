@@ -51,13 +51,4 @@ A web developer passionate about systems, new technologies and everything relate
       borderRadius="50%"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="30"
-      height="30"
-      borderRadius="50%"
-    />
-  </a>
 </p>
