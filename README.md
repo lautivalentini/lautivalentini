@@ -11,7 +11,7 @@ A web developer passionate about systems, new technologies and everything relate
 - 📫 How to reach me **lautivalentini19@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/lautivalentini/)**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p backgroundColor="white" padding="5px" align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
