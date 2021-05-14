@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Lautaro Valentini
 
-A web developer passionate about systems, new technologies and everything related to the web world ♡
+A web developer passionate about systems, new technologies and everything related to the web world :heart:
 
 - 🌱 I’m currently working @ **[Just BrainIt](https://www.linkedin.com/company/just-brainit)**
 
