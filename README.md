@@ -2,7 +2,7 @@
 
 A web developer passionate about systems, new technologies and everything related to the web world :heart:
 
-- 🌱 I’m currently working @**[justbrainit](https://www.linkedin.com/company/just-brainit)**
+- 🌱 I’m currently working **[@justbrainit](https://www.linkedin.com/company/just-brainit)**
 
 - 👨‍💻 Actually working with **[React](https://es.reactjs.org/)** and **[Node](https://nodejs.org/es/)**
 
