@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Lautaro Valentini
 
-A web developer passionate about systems, new technologies and everything related to the web world :heart:
+A Javascript Web Developer passionate about systems, new technologies and everything related to the web world :heart: ❤
 
 - 🌱 I’m currently working at **[@justbrainit](https://www.linkedin.com/company/just-brainit)**
 
@@ -42,7 +42,7 @@ A web developer passionate about systems, new technologies and everything relate
       borderRadius="50%"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank" backgroundColor="red">
+  <a href="https://nodejs.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
