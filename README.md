@@ -2,9 +2,9 @@
 
 A web developer passionate about systems, new technologies and everything related to the web world :heart:
 
-- 🌱 I’m currently working **[@justbrainit](https://www.linkedin.com/company/just-brainit)**
+- 🌱 I’m currently working at **[@justbrainit](https://www.linkedin.com/company/just-brainit)**
 
-- 👨‍💻 Actually working with **[React](https://es.reactjs.org/)** and **[Node](https://nodejs.org/es/)**
+- 👨‍💻 Actually working with **[ReactJS](https://es.reactjs.org/)** and **[NodeJS](https://nodejs.org/es/)**
 
 - 🤝 Enthusiastic about participating in new projects
 
@@ -42,7 +42,7 @@ A web developer passionate about systems, new technologies and everything relate
       borderRadius="50%"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank">
+  <a href="https://nodejs.org" target="_blank" backgroundColor="red">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
