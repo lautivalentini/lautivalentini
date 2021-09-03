@@ -4,7 +4,7 @@ A JavaScript Developer passionate about systems, new technologies and everything
 
 - 🌱 I’m currently working at **[@justbrainit](https://www.linkedin.com/company/just-brainit)**
 
-- 👨‍💻 Actually working with **[ReactJS](https://es.reactjs.org/)** and **[NodeJS](https://nodejs.org/es/)**
+- 👨‍💻 Actually working with **[React.js](https://es.reactjs.org/)** and **[Node.js](https://nodejs.org/es/)**
 
 - 🤝 Enthusiastic about participating in new projects
 
