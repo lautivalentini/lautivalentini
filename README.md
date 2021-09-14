@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Lautaro Valentini
 
-A Fullstack Developer passionate about systems, new technologies and everything related to the web world ❤
+A Javascript Fullstack Developer passionate about systems, new technologies and everything related to the web world ❤
 
-- 🌱 I’m currently working at **[@justbrainit](https://www.linkedin.com/company/just-brainit)**
+- 🌱 I’m currently working at **[@digiventures](https://www.digiventures.la/)**
 
 - 👨‍💻 Actually working with **[React.js](https://es.reactjs.org/)** and **[Node.js](https://nodejs.org/es/)**
 
