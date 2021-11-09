@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
 ## Hi 👋, I'm Lautaro Valentini
 
 A Javascript Fullstack Developer passionate about systems, new technologies and everything related to the web world ❤
@@ -12,40 +14,32 @@ A Javascript Fullstack Developer passionate about systems, new technologies and 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img
-        src="./icons/js.png"
-        alt="JavaScript"
-        width="auto"
-        height="50"
-    />
-    <img
-        src="./icons/ts.png"
-        alt="TypeScript"
-        width="auto"
-        height="50"
-    />
-    <img
-        src="./icons/react.png"
-        alt="React JS"
-        width="auto"
-        height="50"
-    />
-    <img
-        src="./icons/nextjs.png"
-        alt="Next JS"
-        width="auto"
-        height="50"
-    />
-    <img
-        src="./icons/node.png"
-        alt="Node JS"
-        width="auto"
-        height="50"
-    />
-    <img
-        src="./icons/express.png"
-        alt="Express JS"
-        width="auto"
-        height="50"
-    />
+    <i 
+        style="font-size:40px;" 
+        class="devicon-javascript-plain colored"
+    ></i>
+    <i 
+        style="font-size:40px;" 
+        class="devicon-typescript-plain colored"
+    ></i>
+    <i 
+        style="font-size:40px;" 
+        class="devicon-react-original-wordmark colored"
+    ></i>
+    <i 
+        style="font-size:40px;" 
+        class="devicon-nextjs-plain"
+    ></i>
+    <i 
+        style="font-size:40px;" 
+        class="devicon-nodejs-plain colored"
+    ></i>
+    <i 
+        style="font-size:40px;" 
+        class="devicon-express-original-wordmark"
+    ></i>
+    <i 
+        style="font-size:40px;" 
+        class="devicon-mongodb-plain-wordmark colored"
+    ></i>
 </p>
