@@ -18,4 +18,34 @@ A Javascript Fullstack Developer passionate about systems, new technologies and 
         width="50"
         height="50"
     />
+    <img
+        src="./icons/ts.png"
+        alt="TypeScript"
+        width="50"
+        height="50"
+    />
+    <img
+        src="./icons/react.png"
+        alt="React JS"
+        width="50"
+        height="50"
+    />
+    <img
+        src="./icons/nextjs.png"
+        alt="Next JS"
+        width="50"
+        height="50"
+    />
+    <img
+        src="./icons/node.png"
+        alt="Node JS"
+        width="50"
+        height="50"
+    />
+    <img
+        src="./icons/express.png"
+        alt="Express JS"
+        width="50"
+        height="50"
+    />
 </p>
