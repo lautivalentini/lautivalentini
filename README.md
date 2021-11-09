@@ -38,7 +38,7 @@ A Javascript Fullstack Developer passionate about systems, new technologies and 
         <img
             src="./icons/next.png"
             alt="Next"
-            style="width: auto; height: 80px;"
+            style="width: auto; height: 40px;"
         />
     </code>
     <code>
@@ -50,7 +50,7 @@ A Javascript Fullstack Developer passionate about systems, new technologies and 
     </code>
     <code>
         <img
-            src="./icons/express.svg"
+            src="./icons/express.png"
             alt="Express"
             style="width: auto; height: 40px;"
         />
