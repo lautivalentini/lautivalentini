@@ -13,12 +13,12 @@ A Javascript Fullstack Developer passionate about systems, new technologies and 
 - 📫  How to reach me **[LinkedIn](https://www.linkedin.com/in/lautivalentini/)**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <div style="background-color: white; display: flex; justify-content: space-around; padding: 10px">
+    <div 
+        style="background-color: white; display: flex; justify-content: space-around; padding: 10px">
         <img
-        src="./icons/js.svg"
-        alt="js"
-        style="width: auto; height: 40px;"
+            src="./icons/js.svg"
+            alt="js"
+            style="width: auto; height: 40px;"
         />
         <img
             src="./icons/ts.svg"
@@ -51,4 +51,3 @@ A Javascript Fullstack Developer passionate about systems, new technologies and 
             style="width: auto; height: 40px;"
         />
     </div>
-</p>
