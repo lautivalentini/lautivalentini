@@ -50,7 +50,7 @@ A Javascript Fullstack Developer passionate about systems, new technologies and 
     </code>
     <code>
         <img
-            src="./icons/express.png"
+            src="./icons/express2.png"
             alt="Express"
             style="width: auto; height: 40px;"
         />
