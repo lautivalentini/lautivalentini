@@ -14,7 +14,7 @@ A Javascript Fullstack Developer passionate about systems, new technologies and 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <div style="background-color: silver; display: flex; justify-content: space-around; padding: 10px">
+    <div style="background-color: red; display: flex; justify-content: space-around; padding: 10px">
         <img
         src="./icons/js.svg"
         alt="js"
