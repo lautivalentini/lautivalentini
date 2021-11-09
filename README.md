@@ -38,7 +38,7 @@ A Javascript Fullstack Developer passionate about systems, new technologies and 
         <img
             src="./icons/next.svg"
             alt="Next"
-            style="width: auto; height: 40px;"
+            style="width: auto; height: 80px;"
         />
     </code>
     <code>
