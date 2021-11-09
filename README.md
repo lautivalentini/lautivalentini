@@ -14,39 +14,41 @@ A Javascript Fullstack Developer passionate about systems, new technologies and 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img
+    <div style="background-color: white; display: flex; justify-content: space-around; padding: 10px">
+        <img
         src="./icons/js.svg"
         alt="js"
         style="width: auto; height: 40px;"
-    />
-    <img
-        src="./icons/ts.svg"
-        alt="js"
-        style="width: auto; height: 40px;"
-    />
-    <img
-        src="./icons/react.svg"
-        alt="react"
-        style="width: auto; height: 40px;"
-    />
-    <img
-        src="./icons/next.svg"
-        alt="next"
-        style="width: auto; height: 40px;"
-    />
-    <img
-        src="./icons/node.svg"
-        alt="node"
-        style="width: auto; height: 40px;"
-    />
-    <img
-        src="./icons/express.svg"
-        alt="node"
-        style="width: auto; height: 40px;"
-    />
-    <img
-        src="./icons/mongo.svg"
-        alt="mongo"
-        style="width: auto; height: 40px;"
-    />
+        />
+        <img
+            src="./icons/ts.svg"
+            alt="js"
+            style="width: auto; height: 40px;"
+        />
+        <img
+            src="./icons/react.svg"
+            alt="react"
+            style="width: auto; height: 40px;"
+        />
+        <img
+            src="./icons/next.svg"
+            alt="next"
+            style="width: auto; height: 40px;"
+        />
+        <img
+            src="./icons/node.svg"
+            alt="node"
+            style="width: auto; height: 40px;"
+        />
+        <img
+            src="./icons/express.svg"
+            alt="node"
+            style="width: auto; height: 40px;"
+        />
+        <img
+            src="./icons/mongo.svg"
+            alt="mongo"
+            style="width: auto; height: 40px;"
+        />
+    </div>
 </p>
