@@ -14,32 +14,39 @@ A Javascript Fullstack Developer passionate about systems, new technologies and 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <i 
-        style="font-size:40px;" 
-        class="devicon-javascript-plain colored"
-    ></i>
-    <i 
-        style="font-size:40px;" 
-        class="devicon-typescript-plain colored"
-    ></i>
-    <i 
-        style="font-size:40px;" 
-        class="devicon-react-original-wordmark colored"
-    ></i>
-    <i 
-        style="font-size:40px;" 
-        class="devicon-nextjs-plain"
-    ></i>
-    <i 
-        style="font-size:40px;" 
-        class="devicon-nodejs-plain colored"
-    ></i>
-    <i 
-        style="font-size:40px;" 
-        class="devicon-express-original-wordmark"
-    ></i>
-    <i 
-        style="font-size:40px;" 
-        class="devicon-mongodb-plain-wordmark colored"
-    ></i>
+    <img
+        src="./icons/js.svg"
+        alt="js"
+        style="width: auto; height: 40px;"
+    />
+    <img
+        src="./icons/ts.svg"
+        alt="js"
+        style="width: auto; height: 40px;"
+    />
+    <img
+        src="./icons/react.svg"
+        alt="react"
+        style="width: auto; height: 40px;"
+    />
+    <img
+        src="./icons/next.svg"
+        alt="next"
+        style="width: auto; height: 40px;"
+    />
+    <img
+        src="./icons/node.svg"
+        alt="node"
+        style="width: auto; height: 40px;"
+    />
+    <img
+        src="./icons/express.svg"
+        alt="node"
+        style="width: auto; height: 40px;"
+    />
+    <img
+        src="./icons/mongo.svg"
+        alt="mongo"
+        style="width: auto; height: 40px;"
+    />
 </p>
