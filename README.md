@@ -13,41 +13,52 @@ A Javascript Fullstack Developer passionate about systems, new technologies and 
 - 📫  How to reach me **[LinkedIn](https://www.linkedin.com/in/lautivalentini/)**
 
 <h3 align="left">Languages and Tools:</h3>
-    <div 
-        style="background-color: white; display: flex; justify-content: space-around; padding: 10px">
+    <code>
         <img
             src="./icons/js.svg"
-            alt="js"
+            alt="JavaScript"
             style="width: auto; height: 40px;"
         />
+    </code>
+    <code>
         <img
             src="./icons/ts.svg"
-            alt="js"
+            alt="TypeScript"
             style="width: auto; height: 40px;"
         />
+    </code>
+    <code>
         <img
             src="./icons/react.svg"
-            alt="react"
+            alt="React"
             style="width: auto; height: 40px;"
         />
+    </code>
+    <code>
         <img
             src="./icons/next.svg"
-            alt="next"
+            alt="Next"
             style="width: auto; height: 40px;"
         />
+    </code>
+    <code>
         <img
             src="./icons/node.svg"
-            alt="node"
+            alt="Node"
             style="width: auto; height: 40px;"
         />
+    </code>
+    <code>
         <img
             src="./icons/express.svg"
-            alt="node"
+            alt="Express"
             style="width: auto; height: 40px;"
         />
+    </code>
+    <code>
         <img
             src="./icons/mongo.svg"
-            alt="mongo"
+            alt="MongoDB"
             style="width: auto; height: 40px;"
         />
-    </div>
+    </code>
