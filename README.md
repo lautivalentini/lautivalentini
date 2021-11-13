@@ -10,7 +10,7 @@ A Javascript Fullstack Developer passionate about systems, new technologies and 
 
 - 🤝  Enthusiastic about participating in new projects
 
-- 📫  How to reach me **[LinkedIn](https://www.linkedin.com/in/lautivalentini/)**
+- 📫  Can reach me at **[LinkedIn](https://www.linkedin.com/in/lautivalentini/)**
 
 <h3 align="left">Languages and Tools:</h3>
     <code>
