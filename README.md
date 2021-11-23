@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Lautaro Valentini
 
-A Javascript Fullstack Developer passionate about systems, new technologies and everything related to the web world ❤
+A Fullstack Web Developer passionate about systems, new technologies and everything related to the web world ❤
 
 - 🌱  I’m currently working at **[@digiventures](https://www.digiventures.la/)**
 
