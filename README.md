@@ -4,8 +4,6 @@
 
 A Fullstack Web Developer passionate about systems, new technologies and everything related to the web world ❤
 
-- 🌱  I’m currently working at **[@digiventures](https://www.digiventures.la/)**
-
 - 👨‍💻  Actually working with **[React](https://es.reactjs.org/)**, **[Next](https://nextjs.org/)**, **[Node](https://nodejs.org/es/)**, **[Express](https://expressjs.com/es/)**, and **[MongoDB](https://www.mongodb.com) database**
 
 - 🤝  Enthusiastic about participating in new projects
