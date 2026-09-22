@@ -4,59 +4,8 @@
 
 A Fullstack Web Developer passionate about systems, new technologies and everything related to the web world ❤
 
-- 👨‍💻  Actually working with **[React](https://es.reactjs.org/)**, **[Next](https://nextjs.org/)**, **[Node](https://nodejs.org/es/)**, **[Express](https://expressjs.com/es/)**, and **[MongoDB](https://www.mongodb.com) database**
+- 👨‍💻  Actually working with **[React](https://es.reactjs.org/)**, **[Next](https://nextjs.org/)** and **[Node](https://nodejs.org/es/)**
 
 - 🤝  Enthusiastic about participating in new projects
 
 - 📫  Can reach me at **[LinkedIn](https://www.linkedin.com/in/lautivalentini/)**
-
-<h3 align="left">Languages and Tools:</h3>
-    <code>
-        <img
-            src="./icons/js.svg"
-            alt="JavaScript"
-            style="width: auto; height: 40px;"
-        />
-    </code>
-    <code>
-        <img
-            src="./icons/ts.svg"
-            alt="TypeScript"
-            style="width: auto; height: 40px;"
-        />
-    </code>
-    <code>
-        <img
-            src="./icons/react.svg"
-            alt="React"
-            style="width: auto; height: 40px;"
-        />
-    </code>
-    <code>
-        <img
-            src="./icons/next.png"
-            alt="Next"
-            style="width: auto; height: 40px;"
-        />
-    </code>
-    <code>
-        <img
-            src="./icons/node.svg"
-            alt="Node"
-            style="width: auto; height: 40px;"
-        />
-    </code>
-    <code>
-        <img
-            src="./icons/express2.png"
-            alt="Express"
-            style="width: auto; height: 40px;"
-        />
-    </code>
-    <code>
-        <img
-            src="./icons/mongo.svg"
-            alt="MongoDB"
-            style="width: auto; height: 40px;"
-        />
-    </code>
