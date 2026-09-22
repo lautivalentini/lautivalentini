@@ -4,7 +4,7 @@
 
 A Fullstack Web Developer passionate about systems, new technologies and everything related to the web world ❤
 
-- 👨‍💻  Actually working with **[React](https://es.reactjs.org/)**, **[Next](https://nextjs.org/)** and **[Node](https://nodejs.org/es/)**
+- 👨‍💻  Actually working with **[React](https://es.reactjs.org/)**, **[Next.js](https://nextjs.org/)** and **[Node.js](https://nodejs.org/es/)**
 
 - 🤝  Enthusiastic about participating in new projects
 
